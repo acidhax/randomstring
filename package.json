@@ -1,5 +1,5 @@
 {
-  "name": "randomstring",
+  "name": "silly-string",
   "version": "1.0.0",
   "description": "Random string generator",
   "main": "index.js",
